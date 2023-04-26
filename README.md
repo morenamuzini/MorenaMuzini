@@ -12,7 +12,7 @@ Aqui você irá encontrar meus cursos, evoluções e tudo que estou desenvolvend
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+<img height src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
           
           
           
