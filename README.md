@@ -12,6 +12,8 @@ Aqui você irá encontrar meus cursos, evoluções e tudo que estou desenvolvend
 
 ### Ferramentas e Tecnologias
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+<i class="devicon-azure-plain colored"></i>
+          
           
 
